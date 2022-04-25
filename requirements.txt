@@ -1,0 +1,4 @@
+1. In order to run it, start mysql server and run userform.sql file in mysql to create table.
+2. change localhost and mysql password to your own
+3. run the command: php -S localhost:3000
+4. open browser and type "localhost:3000/home.php"
